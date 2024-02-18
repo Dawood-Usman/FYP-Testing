@@ -24,4 +24,4 @@ func Demo() {
 	fmt.Printf("FYP Pipeline Testing 8.0")
 	
 	fmt.Println(quote.Go())
-}
+
